@@ -2,7 +2,7 @@
 
 on FPGA to deploy a deep neural network.
 
-## workflow
+## workflows
 
 ### 第一阶段：FPGA 与 DL 相关技能技术调研
 
